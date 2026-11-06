@@ -1,0 +1,14 @@
+# Logs / copias si alguien ejecuta cosas desde la carpeta del repo
+*.log
+*.reg
+cambios*.json
+apps_eliminadas.txt
+
+# Builds de release
+dist/
+
+# Windows / editores
+Thumbs.db
+desktop.ini
+.vscode/
+*.swp
